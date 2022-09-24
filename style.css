@@ -1,0 +1,53 @@
+*{margin:0;padding:0}
+
+body {font-family:georgia}
+
+.fix {overflow:hidden}
+.header {background:url(images/header_background.png) repeat #eaeaea;padding-top:20px;padding-bottom:100px;border-bottom:2px solid #fff;}
+.Name {font-style:italic}
+.Name h2 {font-size: 18px}
+.Name h3 {font-size: 16px}
+.Social a {float:right;padding:15px}
+.Social a:hover {background-color:#fff;border-radius:10px}
+.slider {margin-top:-90px}
+.content_header {text-align:center}
+.content_header h3 {font-size:24px;margin-bottom:10px}
+.content_header h1 {font-size:60px;margin-bottom:60px}
+.content img {float:left;margin-top:10px}
+.content h3 {float:left;margin-left:10px}
+.content p {text-align:justify;float:right}
+.first_para {margin-right:20px}
+.middle_para {margin-left:10px;margin-right:10px}
+.last_para {margin-left:20px}
+.portfolio {background:url(images/portfolio-bg.png) repeat;padding:60px;margin-top:60px}
+.portfolio-left img {padding:20px}
+.portfolio-left img:hover {background-color:#f8b03d}
+.portfolio-right {margin-top:20px}
+.contact_form {margin-top:40px;margin-bottom:50px}
+.form {margin-bottom:20px}
+.single_form {background-color:#ebebeb;margin-bottom:20px;padding:20px;border-radius:5px}
+.single_form img {float:left;margin-right:10px;margin-top:5px}
+.single_form form {float:left}
+.single_form form input{background-color:#ebebeb;border:none;font-size:16px;font-style:italic;color:#878787;width:300px}
+.text_area {height:150px}
+.submit input {padding:20px;background-color:#ebebeb;border:none;width:100px;border-radius:5px;font-size:18px;color:#7f7f7f}
+.about_me {color:#444343}
+.about_me img {border: 3px solid #dbdbdb;float:left}
+.about_me_right {margin-top:5px}
+.about_me_right h5 {font-size:16px}
+.about_me_right p {font-size:14px}
+.contact {font-size:14px;font-style:italic}
+.follow {float:left}
+.about_me ul {margin:0;padding:0;list-style:none}
+.about_me ul li {float:left;background:url(images/slash.png) no-repeat scroll right center}
+.about_me ul li:last-child {background:none}
+.about_me ul li a {padding:20px;font-style:italic;text-decoration:none;color:#000000}
+.about_me ul li a:hover {color:#6c00ff}
+.footer_area {border-top:3px solid #c7c7c7}
+.footer {margin-top:40px;margin-bottom:60px}
+.footer p {font-size:12px;color:#444343}
+.social_icons_footer {float:right}
+.social_icons_footer ul {margin:0;padding:0;list-style:none}
+.social_icons_footer ul li {float:right}
+.social_icons_footer ul li a img {padding:20px}
+.social_icons_footer ul li a img:hover {background-color:#df9c75;border-radius:30px}
